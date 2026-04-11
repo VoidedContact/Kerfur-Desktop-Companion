@@ -94,7 +94,7 @@ def mFace():
 
 class TextColor:
     RESET = "\033[0m"
-    RED = "\033[31m"
+    RED = "\x1b[38;5;196m"
     CYAN = "\033[36m"
     PINK = "\033[38;5;213m"
 

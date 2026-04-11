@@ -4,7 +4,7 @@ Just a little Kurfer to keep you company, it lives in your desktop!
 
 
 
-Notice from Developer: It's very basic, very bare bones. You can choose red, blue, or pink colors. It can mewoReach out if you have any suggestions!
+Notice from Developer: It's very basic, very bare bones. You can choose red, blue, or pink colors. It can meow and blink. Reach out if you have any suggestions!
 
 Todo List:
 1. Pet function

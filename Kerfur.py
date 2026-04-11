@@ -163,7 +163,7 @@ def Color_Selection():
             else:
                 print("Invalid number! Pick 1, 2, or 3.")
                 time.sleep(1)
-        except ValueError: ## I'm so fucking tired, i dont think anyones going to try this... but humans are relentless fuckheads. getting every single one to follow the rules is impossible. delete this comment before publishing.
+        except ValueError:
             print(f"'{colorChoice}' is not a number. Please try again.")
             time.sleep(1)
             Color_Selection()

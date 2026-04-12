@@ -9,10 +9,10 @@ Current Features:
 4. You can get alerted every 30 minutes to drink water!
 5. Kerfur's settings will automaticly update when the config is changed!
 6. Kerfur's meows can be toggled on/off as well as be made more or less frequent
+7. Pet your Kerfur!
 
 
 To be added List:
-1. Pet function
-2. Give it a settings menu so you dont have to edit the config
-3. Add "sleep" function for when PC is left alone
-4. Minigames? (possible, but not guaranteed)
+1. Give it a settings menu so you dont have to edit the config
+2. Add "sleep" function for when PC is left alone
+3. Minigames? (possible, but not guaranteed)

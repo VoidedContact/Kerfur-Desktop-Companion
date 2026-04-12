@@ -1,0 +1,6 @@
+# Use RGB format, this will allow you to change the color of YOUR kerfur unit!
+# Warning: *Changing the color of your Kerfur unit may lead to a voided warrenty, request a list of approved colors from your ASO supervisor*
+color=0,255,0
+
+# Water reminder! Your Kerfur unit WILL remind you to drink water every 30 minutes!
+Water_Alert=True

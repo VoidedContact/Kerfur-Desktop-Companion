@@ -1,0 +1,23 @@
+# Place Kerfur's name here! (KerfO is what I set it to by default, I admit I'm not the best with names.)
+Name=KerfO
+
+# Use RGB format, this will allow you to change the color of YOUR kerfur unit!
+# Warning: *Changing the color of your Kerfur unit may lead to a voided warrenty, request a list of approved colors from your ASO supervisor*
+color=0, 255, 0
+
+# Your Kerfur unit WILL remind you to drink water every 30 minutes!
+Water_Alert=True
+
+# Kerfur's Silent Meow mode (Does NOT affect Water Alert, only meowing)
+Silence=False
+
+# Dont want your Kerfur silenced but still feel like it meows too much? No worries, change that here!
+# 0.0001 - Almost never meows
+# 0.001 - Rarely meows
+# 0.01 - Uncommon meows
+# 0.1 - Common meows 
+# 1.0 - too often imo
+Meow_Chance = 0.1
+
+# Debug tool, shows specifc values in console - I use these quite a bit to see values.
+Debug=False

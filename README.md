@@ -13,5 +13,6 @@ Current Features:
 
 To be added List:
 1. Pet function
-2. Add "sleep" function for when PC is left alone
-3. Minigames? (possible, but not guaranteed)
+2. Give it a settings menu so you dont have to edit the config
+3. Add "sleep" function for when PC is left alone
+4. Minigames? (possible, but not guaranteed)

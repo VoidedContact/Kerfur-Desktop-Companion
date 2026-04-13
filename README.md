@@ -2,6 +2,8 @@ Inspirations from Voices of the void and https://www.reddit.com/r/Voicesofthevoi
 
 Just a little Kurfer to keep you company, it lives in your desktop!
 
+Notice: Currently Windows only, working on solution.
+
 Current Features:
 1. Kerfur that blinks and meows
 2. RGB color customization for your Kerfur
@@ -13,6 +15,5 @@ Current Features:
 
 
 To be added List:
-1. Give it a settings menu so you dont have to edit the config
-2. Add "sleep" function for when PC is left alone
-3. Minigames? (possible, but not guaranteed)
+1. Add "sleep" function for when PC is left alone
+2. Minigames? (possible, but not guaranteed)

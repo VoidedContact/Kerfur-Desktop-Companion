@@ -6,8 +6,9 @@ echo ==================================
 python -m pip install --upgrade pip
 
 echo.
-echo Installing packages from requirements.txt...
-python -m pip install -r requirements.txt
+echo Installing required Kerfur packages...
+python -m pip install pygame-ce
+python -m pip install pywin32
 
 echo.
 echo ==================================

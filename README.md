@@ -1,10 +1,10 @@
-Fair warning, im a bit rusty programming python.
+Fair warning, im super rusty programming python.
 
 Inspirations from Voices of the void and https://www.reddit.com/r/Voicesofthevoid/comments/1sgy1fe/kerfurα_v02_bootup_other/
 
 Just a little Kurfer to keep you company, it lives in your desktop!
 
-Notice: Currently Windows only, working on solution.
+Notice: Version 2.6 and onward should work on Windows, Linux, and MacOS; however, I have no way to test MacOS.
 
 Current Features:
 1. Kerfur that blinks and meows
